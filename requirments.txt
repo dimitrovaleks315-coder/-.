@@ -1,0 +1,4 @@
+streamit
+numpy
+pillow
+scikit-learn
